@@ -13,7 +13,7 @@ to reduce variance and uncover small, meaningful treatment effects in a real-wor
 |------|--------------|
 | `MetroPay_CUPED_AB_Test.ipynb` | Full Jupyter Notebook (code, plots, and explanations) |
 | `metropay_ab.csv` | Experiment dataset |
-| `weekly_cr_plot.png` | Visualization output |
+| `graph.png` | Visualization output |
 | `README.md` | Project summary |
 
 ---
